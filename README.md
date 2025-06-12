@@ -11,16 +11,20 @@ Este projeto foi desenvolvido como parte dos desafios do canal **Dev em Dobro**,
 ## 🎯 Objetivos do Projeto
 
 - Reforçar conceitos básicos e intermediários de desenvolvimento web.
-- Praticar a organização de estrutura HTML.
+- Praticar a organização da estrutura HTML.
 - Trabalhar com estilização usando CSS, incluindo responsividade.
 - Implementar interatividade com JavaScript.
 
+## 🔗 Acesse o Projeto Online
+
+👉 [Clique aqui para ver o projeto rodando no GitHub Pages](https://laribtt18.github.io/Projeto-Dev_em_Dobro/)
+
 ## 📸 Prévia do Projeto
 
+> *(Adicione aqui uma captura de tela ou gif demonstrando o projeto. Exemplo abaixo)*  
+> ![preview](./screenshot.png)
 
-> *(Ou adicionar o link do GitHub Pages, se estiver hospedado)*
-
-## 🛠️ Como executar o projeto
+## 🛠️ Como Executar Localmente
 
 1. Clone o repositório:
 ```bash
@@ -31,20 +35,18 @@ bash
 Copiar
 Editar
 cd Projeto-Dev_em_Dobro
-Abra o index.html em seu navegador.
+Abra o arquivo index.html no seu navegador.
 
-Nenhuma instalação adicional é necessária. Basta ter um navegador moderno instalado.
+Não é necessário instalar dependências.
 
 💡 Aprendizados
 Durante o desenvolvimento deste projeto, foram praticados:
 
-Uso de tags semânticas no HTML
+Estruturação de páginas com HTML semântico.
 
-Posicionamento e layout com Flexbox
+Estilização com CSS, incluindo Flexbox e animações.
 
-Transições e animações em CSS
-
-Manipulação do DOM com JavaScript
+Manipulação do DOM e lógica com JavaScript puro.
 
 🏴‍☠️ Referência
 Projeto proposto no canal Dev em Dobro no YouTube.
